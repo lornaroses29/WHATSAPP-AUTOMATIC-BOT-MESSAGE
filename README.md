@@ -65,8 +65,8 @@ Selanjutnya script otomatis kirim pesan ke semua nomor.
 
 ## Tips Agar Tidak Kena Ban ✅
 
-- Delay default sudah 4 detik antar pesan — jangan kurangi
-- Jangan broadcast ke > 200 nomor sekaligus
+- Delay default sudah 2 menit antar pesan 
+- Jangan broadcast ke > 50 nomor sekaligus
 - Gunakan nomor WA yang aktif dan sudah lama dipakai
 - Hindari kata-kata spam (promo berlebihan, link mencurigakan)
 
